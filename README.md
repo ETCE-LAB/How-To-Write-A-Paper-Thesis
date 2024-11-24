@@ -7,6 +7,7 @@ This repository contains teaching material related to writing a research paper o
 
 
 ## Contributors (past and present)
+- Anant Sujatanagarjuna
 - Benjamin Leiding
 - Mattes Knigge
   
